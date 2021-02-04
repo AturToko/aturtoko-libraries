@@ -1,0 +1,17 @@
+{
+    "name": "aturtoko/aturtoko-libraries",
+    "description": "A library for AturToko API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Muhammad Galih Praditya",
+            "email": "galih@aturtoko.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AturToko\\Services\\": "src/"
+        }
+    }
+}
